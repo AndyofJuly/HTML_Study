@@ -4,6 +4,7 @@ HTML入门学习及笔记
 相信该资料会对大家有所帮助，感兴趣的可以下载来玩一玩或者学一学。
 
 源代码：
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -289,3 +290,4 @@ HTML入门学习及笔记
     <video src="gameplay.mp4" controls preload="auto" poster="violet.jpg"></video>
 </body>
 </html>
+```
