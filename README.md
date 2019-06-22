@@ -4,7 +4,7 @@ HTML入门学习及笔记
 相信该资料会对大家有所帮助，感兴趣的可以下载来玩一玩或者学一学。
 
 效果展示请点击：
-<a href="https://www.bilibili.com">HTML效果展示，点我</a>
+<a href="HTML_Note.html">HTML效果展示，点我</a>
 
 
 源代码：
